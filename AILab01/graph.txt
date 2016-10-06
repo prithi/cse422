@@ -1,0 +1,32 @@
+20 24
+Arad
+Hirsova
+3 (#broken roads)
+Farara,Urziccini
+Riminicu,Pitesi
+Urziccini,Hirsova
+[information of roads]
+Odarea,Sibiu
+Odarea,Zerind
+Zerind,Arad
+Arad,Timisoara
+Arad,Sibiu
+Timisoara,Lugoj
+Lugoj,Mehadia
+Mehadia,Dobreta
+Dobreta,Craiova
+Sibiu,Farara
+Sibiu,Riminicu
+Riminicu,Craiova
+Riminicu,Pitesi
+Farara,Urziccini
+Craiova,Pitesi
+Craiova,Bucharest
+Urziccini,Hirsova
+Urziccini,Bucharest
+Bucharest,Giurgui
+Hirsova,Vaslui
+Hirsova,Eforie
+Vaslui,Iasi
+Iasi,Neamt
+Pitesi,Bucharest
