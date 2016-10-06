@@ -1,0 +1,46 @@
+20 23 (Graph Dimension)
+Arad (Starting Location)
+Bucharest (Destination Location)
+Odarea Sibiu 151
+Odarea Zerind 71
+Zerind Arad 75
+Arad Timisoara 118
+Arad Sibiu 140
+Timisoara Lugoj 111
+Lugoj Mehadia 70
+Mehadia Dobreta 75
+Dobreta Craiova 120
+Sibiu Farara 99
+Sibiu Riminicu 80
+Riminicu Craiova 146
+Riminicu Pitesi 97
+Farara Bucharest 211
+Craiova Pitesi 138
+Pitesi Bucharest 101
+Urziccini Hirsova 98
+Urziccini Bucharest 85
+Bucharest Giurgui 90
+Urziccini Vaslui 142
+Hirsova Eforie 86
+Vaslui Iasi 92
+Iasi Neamt 87
+Arad 366
+Bucharest 0
+Odarea 380
+Zerind 374
+Sibiu 253
+Timisoara 329
+Lugoj 244
+Mehadia 241
+Dobreta 242
+Craiova 160
+Riminicu 193
+Pitesi 10
+Farara 176
+Urziccini 80
+Giurgui 77
+Neamt 234
+Iasi 226
+Vaslui 199
+Hirsova 151
+Eforie 161
